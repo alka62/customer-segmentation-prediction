@@ -1,0 +1,4 @@
+Segment,Customers,Accuracy,Precision,Recall,F1_Score,ROC_AUC,Best_Params
+0,232,0.9787234042553191,1.0,0.8333333333333334,0.9090909090909091,1.0,"{'max_depth': 5, 'n_estimators': 50}"
+1,124,0.96,0.8333333333333334,1.0,0.9090909090909091,1.0,"{'max_depth': 3, 'n_estimators': 50}"
+2,144,0.9655172413793104,0.0,0.0,0.0,0.9642857142857143,"{'max_depth': 3, 'n_estimators': 100}"
